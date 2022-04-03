@@ -2,12 +2,19 @@
   background-color: #298a08;
 }
 
+#quem-somos{
+  background-color: #f1f1f1;
+}
+
 #quem-somos img{
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .margin{
-  background-color: #f1f1f1;
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+.parceiros img{
+  margin-bottom: 30px;
 }
