@@ -1,8 +1,14 @@
+img{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  max-width: 100%;
+}
+
 .navbar{
   background-color: #298a08;
 }
 
-#quem-somos{
+#quem-somos, #servicos{
   background-color: #f1f1f1;
 }
 
@@ -15,6 +21,8 @@
   padding-bottom: 50px;
 }
 
-.parceiros img{
-  margin-bottom: 30px;
+.bg-footer{
+  background-color: #333;
+  padding: 20px;
+  color: white;
 }
